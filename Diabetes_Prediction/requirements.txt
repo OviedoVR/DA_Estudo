@@ -1,0 +1,7 @@
+streamlit==1.5.0
+watchdog==2.1.6
+pandas==1.2.4
+matplotlib==3.4.2
+seaborn==0.11.1
+pickleshare==0.7.5
+sklearn==0.0
