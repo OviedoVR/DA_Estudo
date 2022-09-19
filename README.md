@@ -8,6 +8,6 @@
 
 <img width="750" alt="CRISP-DM Methodology" src="https://github.com/OviedoVR/DA_Estudo/blob/main/S3-to-Python.png">
 
-> **1. Predição Diabetes**
+> **2. Predição Diabetes**
 
 <img width="450" alt="CRISP-DM Methodology" src="https://github.com/OviedoVR/Data_Analysis_ProjetosDeEstudo/blob/main/Diabetes_Prediction/CRISP_DM.png">
